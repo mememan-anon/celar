@@ -1,0 +1,4 @@
+export const DUMMY_FROM = "0xde70F44bE59359d07153c3a3bA32bA3C0cDA2854";
+export const DUMMY_TO = "0x4c0d27c362AFBDF3fB7FAE9abccd4912DA3F2958";
+export const DUMMY_AMOUNT = "0.1";
+
